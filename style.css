@@ -1,0 +1,9 @@
+div#image {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+    width: 484px;
+    width: auto;
+    max-width: 484px;
+    margin-left: 39%;
+}
